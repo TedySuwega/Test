@@ -1,0 +1,1 @@
+INSERT INTO test.DATA_INPUT (sepal_length, sepal_width, petal_length, petal_width, species) VALUES (%s, %s,%s,%s, %s)
